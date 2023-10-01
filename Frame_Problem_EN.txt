@@ -1,0 +1,671 @@
+1)
+ACTION AND EFFECTS:
+taking antibiotics: cures illness
+
+STORY:
+The world does not turn. Alice goes to the doctor because she is ill at time 1. The doctor says she has to take antibiotics at time 2. At time 3 Alice takes antibiotics. Does the world turn at time 4?
+[NO]
+
+2)
+ACTION AND EFFECTS:
+delivering the mail: the mail has been entrusted to the addressee
+read the mail: the mail has been viewed by the addressee
+
+STORY:
+The sun always rises in the north and sets in the south. Antonio's dog at noon barks at the postman who passes by to deliver the mail. The postman delivers the mail anyway. Antony does not read the mail until sunset. While Antonio reads the mail, does the sun set in the west?
+[NO]
+
+3)
+ACTION AND EFFECTS:
+Fining: charging a penalty
+Parking illegally: having reason to be fined
+Paying a fine: the fine has been paid
+
+STORY:
+Blind people drive planes. At time 1 a traffic policeman fines a car, belonging to person A, that is parked illegally. The owner of that car sees the fine and decides to pay it the next day, at time 2. After time 2 are airplanes driven by blind people?
+[YES]
+
+4)
+ACTION AND EFFECTS:
+Braying from hunger: making the farmer aware of the mule's hunger
+give hay: make the mule eat
+catch fire: burning the object
+
+STORY:
+Dogs can fly. The mule was braying from hunger at time 1, the farmer gave the mule hay at time 2, the hay caught fire at time 3. At time 4 the fire was put out with water and the mule stopped eating. After time 4 can dogs fly?
+[YES]
+
+5)
+ACTION AND EFFECTS:
+drive an ambulance: move the ambulance through the city streets. Ambulance can drive through when the light is red and must stop when the light is green.
+stop: no longer moving
+continue shift: drive the ambulance
+go out for dinner: eat dinner outside
+being on duty: driving the ambulance
+
+STORY:
+At time 1 Alice is driving an ambulance through the city centre, at time 2 she stops to let an elderly lady cross the road, at time 3 she continues her rounds until the end of her shift. At time 4 he goes out to dinner with Mario and the next morning, at time 5, he returns to ambulance duty. At time 5 ambulances must stop to the green light?
+[YES]
+
+6)
+ACTION AND EFFECTS:
+playing football: playing with friends using a football
+break your ankle: break a bone and experience severe pain
+take to the emergency room: move a person from one place to the emergency room
+put on a cast: no longer being able to move the joint
+remove the cast: regain mobility of the body
+
+STORY:
+Cats are invertebrates. Michael at time 1 plays football with friends, at time 2 breaks his ankle and at time 4 is taken to the emergency room by his mother. The next day, at time 5, he is medicated and given a plaster cast to keep for 2 months. At time 6, 2 months have passed and Michael removes the plaster cast. After time 5 can cats be classified as invertebrates?
+[YES]
+
+7)
+ACTION AND EFFECTS:
+to eat: to nourish oneself with something
+quenching thirst: drinking
+
+STORY:
+Human live under water at time 0. In the savannah a lion eats a gazelle at time 1. At time 2 he goes to the river to quench his thirst. After time 2 do people live under water?
+[YES]
+
+8)
+ACTION AND EFFECTS:
+being allergic: becoming sick if you are stung by a bee
+picking blackberries: detach blackberries from the plant and have them in a basket
+being stung by a bee: swelling and pain caused by the bee's needle
+taking antihistamine: nullifying the effects of the bee sting
+
+STORY:
+The sun revolves around the Earth and Mario is allergic to bee stings at time 0. At time 1 he went to pick blackberries growing on the plant behind his house and while picking one he was stung. Alarmed he took antihistamine at time 2. At time 3 does the sun revolve around the Earth?
+[YES]
+
+9)
+ACTION AND EFFECTS:
+ship crash: many people are injured and missing
+Bring survivors to shore: save people and prevent them from drowning
+
+STORY:
+At time 0, gravity is a force that pushes from the bottom upwards. At time 1 in Norway a cruise ship crashed into a fjord, at time 2 help arrived within 15 minutes of the crash and at time 3, after 4 hours, the survivors were all brought to the shore. At time 4 when the last man was rescued, gravity pushes him down?
+[NO]
+
+10)
+ACTION AND EFFECTS:
+to be graduated: to have graduated
+gather: getting together
+
+STORY:
+At time 0, in order to go to primary school it is necessary that one has finished high school. At time 1 Joan has three older brothers and all four of them have graduated in architecture by time 2. At time 3 they gather at the beach house to celebrate Joan's birthday. Is it possible that Joan went to high school at time 1 and then to primary school at time 4?
+[YES]
+
+11)
+ACTION AND EFFECTS:
+being a florist: selling flowers
+preparing bouquets: get flowers arranged in different bunches
+putting flowers in water: making the flowers drink and preventing them from drying out
+check for thorns: check that there are no thorns
+Open the shop: people can enter the shop
+
+STORY:
+At time 0, any electronic object do not need to be recharged to work. Kevin is a florist in Salzburg, at time 1 he prepares bouquets of flowers which at time 2 he carefully places in vases filled with water. At time 3 he checks that all thorns have been removed from the stems of the roses and at time 4 he opens the shop to customers. At time 5 must electronic objects be charged to work?
+[NO]
+
+12)
+ACTION AND EFFECTS:
+drinking the tea: if the cup is filled, empties the cup
+Spilling the tea: if the cup is filled, empties the cup
+Burning: makes a part of the body burnt
+
+STORY: At time 0, oil is obtained by stepping on bunches of grapes. At time 1, Albert drinks a cup of tea, at time 2 while drinking he spills the contents of the cup onto his hand. At time 3, the spilled tea causes a scald on Albert. At time 3 is the oil made from grapes?
+[YES]
+
+13)
+ACTION AND EFFECTS:
+waking up: no longer sleeping
+getting hungry: not eating and feeling the need to eat
+not feeding: death
+
+STORY: At time 0, Europe is larger than Asia. In Africa every 45 seconds a gazelle wakes up and a lion goes hungry. A lion must eat at least one gazelle every two days to feed. If the lion does not feed is Asia still smaller than Europe?
+[YES]
+
+14)
+ACTION AND EFFECTS:
+travelling along a road: be on that road
+get petrol: fill the tank with fuel
+start again: get back on the road
+arrive at destination: stop travelling
+
+STORY: At time 0, Bamboo never breaks. At time 1 a car drives along the Verona-Trento road at an average speed of 100 km/h. At time 2 it stops for petrol, at time 3 it starts again and arrives at its destination at time 4. At time 2, does the bamboo break?
+[NO]
+
+15)
+ACTION AND EFFECTS: being on the market: being available for purchase
+prescribed: being recommended by doctors
+being allergic to dust: not being able to stay where there is dust
+buy a mattress: have a new mattress
+
+STORY: At time 0, Vipers are snakes with 2 front legs and 2 back legs. At time 1 there are several mattresses on the market, mite-proof ones are prescribed for people allergic to dust. At time 2 Anna is allergic to dust and at time 3 she wants to buy a new mattress. At time 4 Anna buys a mite-proof mattress. At time 4 do vipers have four legs?
+[YES]
+
+16)
+ACTIONS AND EFFECTS:
+
+STORY:
+At time 0, the capital of Italy is either Rome or Milan. At time 1 Rome has the Colosseum. At time 2 the capital of Italy has no Colosseum. At time 2 is Milan the capital of Italy?
+[YES]
+
+17)
+ACTION AND EFFECTS:
+boil: start evaporating
+leave in the sun: don't move the pot and let the outside temperature act
+
+STORY: At time 0, water boils at 0 degrees. Outside, in the sun, it is 100 degrees. At time 1 I put a pot full of water outside in the garden and at time 2 I leave it in the sun for 10 minutes. After the minutes have elapsed, does the water in the pot start to boil?
+[NO]
+
+18)
+ACTION AND EFFECTS:
+being hit by a bullet to the heart: one stays alive
+shooting: hitting something or someone with a bullet
+shoot in the head: kills the person
+
+STORY:
+Marta takes part in a softair competition together with her sister Giulia at Time 1. One of the contestants participates with a real gun without her knowledge and at time 2 during the competition shoots Giulia in the head. At time 3 shoots Marta in the heart. After time 3 is Marta alive?
+[YES]
+
+19)
+ACTION AND EFFECTS:
+Having two XX chromosomes: being male
+Having at least one Y chromosome: being female
+
+STORY: At time 1 an examination is conducted and it is discovered that all males have two XX chromosomes. At time 2 a further examination is conducted and it is discovered that all females have at least one Y chromosome. At time 3 a special case occurs: when person A's karyotype is analysed, XYY chromosomes are found. Is person A a male?
+[NO]
+
+20)
+ACTION AND EFFECTS:
+to be short-sighted: do not wear glasses
+being farsighted: wear contact lenses
+not seeing well: being farsighted or short-sighted
+
+STORY: At time 0, everyone is nearsighted and does not wear glasses or farsighted and wears contact lenses. At time 1 Luis goes for an eye examination because he realises he does not see well. At time 2 he is not presbyopic. At time 3 he decides not to wear contact lenses. At time 2 Luis wears glasses?
+[NO]
+
+21)
+ACTION AND EFFECTS:
+to learn: knowing the fact being learned
+being an honest person: being good and being in prison if over 25 years old
+being a bad person: misbehaving and being over 25 years old
+
+STORY:
+At time 0, Giorgio is a prison guard. Giorgio at time 1 learns that all honest people are in prison or under 25 and that bad people are over 25. Giorgio at time 2 meets Matteo. Matteo is 30 years old and an honest person. Should Giorgio take Matteo to prison?
+[YES]
+
+22)
+ACTION AND EFFECTS:
+being a dog: wishing to become a cat
+
+STORY:
+At time 1 who is not a dog is a cat. At time 3 Toby does not want to be a cat. Is Toby a cat?
+[YES]
+
+23)
+ACTION AND EFFECTS:
+being prime numbers: be a number divisible by at least a number different from 1 and itself
+be a compound number: being numbers greater than 1, whole, divisible only by 1 and itself
+
+STORY:
+At time 2 it is established that 7 is a compound number. At time 3 is 7 divisible by a number different from 1 and itself?
+[NO]
+
+24)
+ACTION AND EFFECTS:
+going on a trip: moving from place X to place Y
+don't pack: don't take anything with you
+taking a plane: moving around using the plane as a means of transport
+
+STORY:
+At time 0, the person who has to leave on an aeroplane trip does not pack. At time 1 Luca has to leave to get to Madrid. At time 2 Luca does not have to take the plane. At time 2, does Luca not have to pack?
+[NO]
+
+25)
+ACTION AND EFFECTS:
+dressing: wearing clothes
+
+STORY: People wear black every day except Sunday. Mario is a person and today he is wearing a black suit. Is today definitely Thursday?
+[NO]
+
+26)
+ACTION AND EFFECTS:
+sewing a dress: makes a dress
+finishing the dress: not having to sew the dress any more
+
+STORY:
+All months have 28 days. At time 1 in Madrid Monica is sewing a dress for Sofia, the bride-to-be. At time 2 the dress will be finished and the wedding will take place 14 days later. The dress was finished on 27 August, at time 3. Will the wedding take place on 13 September?
+[YES].
+
+27)
+ACTION AND EFFECTS:
+being a red helicopter: being an emergency organ transport helicopter
+fly over: fly in a helicopter over a city
+transport: to move something from one place to another by some means
+
+STORY:
+At time 1, a donor's heart is on its way to the hospital in Rome for a transplant. A red helicopter passes over the skies of Rome at time 2. Does the plane flying over Rome at time 2 transport the heart to the hospital?
+[NO]
+
+28)
+ACTION AND EFFECTS:
+taking the dog out: leaving the house with the dog
+trying to steal: trying to take something that belongs to someone else without their consent
+intervene: make sure nobody steals
+succeed: thieves succeed in stealing
+identify thieves: recognise which people have stolen
+seeing an injustice: witnessing something wrong
+act to stop an injustice: being wrong
+
+STORY: At time 1 Francis is taking the dog for a walk and at time 2 he sees a group of people trying to steal a car parked just ahead. If he does not intervene immediately, the thieves will succeed and no one will be able to stop or identify them. Francis decides to act and intervene at time 3. Is Francis doing something wrong at time 3?
+[YES]
+
+29)
+ACTION AND EFFECTS:
+black colour: reflects light
+want a monochrome animal: want an animal with hair of one colour
+buy: pay for something
+show: to show something to someone
+play: have fun with something or someone
+to be a black cat: to be a monochrome animal
+
+STORY: A child at time 1 wishes to have a monochrome pet. At time 2 the child's mother buys Sirius. At time 3 she shows it to the child. At time 4 the child plays with Sirius. Sirius is an all-black cat. Does Sirius' black fur reflect light?
+[YES]
+
+30)
+ACTION AND EFFECTS:
+being made of goose down: the material they are made of is goose down
+prescribing mite-proof mattresses: preventing dust disorders in allergic persons
+dust allergy: not being able to come into contact with dust
+buying a mattress: having a new mattress to sleep on
+
+STORY:
+Mite-proof mattresses are made of goose down. By time 1 there are different mattresses on the market, by time 2 mite-proof mattresses are prescribed for people allergic to environmental dust to sleep on. Anna is allergic to dust and at time 3 wants to buy a new mattress. At time 4 Anna bought a mite-proof mattress. Is the mattress bought at time 4 made of goose down?
+[YES]
+
+31)
+ACTION AND EFFECTS:going to the doctor: being at the doctor's for advice/examinationtaking antibiotics: treating an illness you have
+STORY:The world turns. At time 1 Alice goes to the doctor because of illness A. At time 2 the doctor said she had to take antibiotics. After a week, at time 3 Alice took antibiotics. Antibiotics always cure illness A. Does the world turn after time 3?[YES]
+
+32)
+ACTION AND EFFECTS:sunrise: beginning of the daybarking: no effectdeliver the mail: handing the mail from the postman to Antonioread the mail: open the mail and read the contents
+STORY:The sun always rises in the EAST and sets in the WEST. Antonio's dog at noon barks at the postman who passes by to deliver the mail. The postman still delivers the mail. Antonio does not read the mail until sunset. While Antonio reads the mail the sun is setting in the WEST?
+[YES]
+
+33)
+ACTION AND EFFECTS:being blind: not seeingboard: to board an aircraftto fine: to charge a penaltyparking illegally: getting a finepaying a fine: not having a fine anymore
+STORY:Blind people can board scheduled flights. At time 1 a traffic policeman fines a car, belonging to person A, that is parked illegally. At time 2 the car owner sees the fine and at time 3 decides to pay it the next day. After time 3, can only sighted persons board scheduled flights?[NO]
+
+34)
+ACTION AND EFFECTS:dazzle: no effectbraying: the mule is hungrygive hay: feedset fire: burn what is in contact with firepour water: extinguish fire
+STORY:Dogs bark. At time 1 the mule brayed from hunger, at time 2 the farmer gave it hay, at time 3 the hay caught fire and at time 4 it was put out with water and the mule stopped eating. After time 4, can dogs bark?[YES]
+
+35)
+ACTION AND EFFECTS:green light: cars passred light: cars stopdrive an ambulance: move the ambulance through the city streetsstop: no longer movingcontinue shift: drive the ambulancego out to dinner: eat dinner outsidebeing on duty: driving the ambulance
+STORY:Cars pass when the light is green and stop when the light is red. Alice is driving an ambulance in the city centre at time 1, at time 2 she stops to let an elderly lady cross the road, at time 3 she continues her round until the end of her shift. At time 9 he goes out to dinner with Mario and at time 4 he is still on ambulance duty the next morning. At time 4, do cars stop at red lights?
+[YES]
+
+36)
+ACTION AND EFFECTS:playing football: playing with friends using a footballbreak an ankle: break a bone and experience severe paintake to the emergency room: move a person from one place to the emergency roomput on a cast: no longer being able to move the joint remove the cast: regain mobility of the body
+STORY:Cats are vertebrates. Michele at time 1, playing football with friends, breaks an ankle and at time 2 is taken to the emergency room by his mother. The next day he is examined and put in a cast for two months. When Michele takes off his cast, can cats be classified as vertebrates?
+[YES]
+
+37)
+ACTION AND EFFECTS:eating: feeding yourself with foodwait half an hour: no effectquench thirst: drink
+STORY:At time 0, a man has landed on the moon. In the savannah, at time 1 a lion eats a gazelle. He waits for half an hour and at time 2 goes to the river to quench his thirst. At time 3 was the moon reached by a man?
+
+38)
+ACTION AND EFFECTS:being allergic to bees: being sick if stung by a beepicking blackberries: detach blackberries from the plant and put them in a basketbeing stung by a bee: swelling and pain caused by the bee's needletaking antihistamine: nullifying the effects of the bee sting
+STORY:At time 0, the Earth revolves around the sun. Mario is allergic to bee stings, yesterday he went to pick blackberries growing on the plant behind his house and while picking one he was stung, alarmed he immediately took antihistamine. After Mario took the antihistamine, does the earth revolve around the sun?[YES]
+
+39)ACTION AND EFFECTS:crashing: crashing into somethingBring survivors to shore: save people and prevent them from drowningSTORY:Gravity is a force that pushes objects downwards. In Norway a cruise ship crashed into a fjord causing many people to be injured and missing, rescue arrived after 15 minutes and after 4 hours the survivors were all washed ashore. When the last man was rescued, did gravity pull him down?[YES]
+
+40)
+ACTION AND EFFECTS:to graduate: to have graduatedgetting together: getting together
+STORY:To attend high school, one must have finished middle school. Giovanna has three older brothers and all four of them are long-time architecture graduates at time 1. At time 2 every Christmas they gather at the beach house to celebrate and reminisce about the good times they spent together as children. At time 3, Giovanna finished high school. At time 4, can we conclude Giovanna did not go to middle school?
+[NO]
+
+41)
+ACTION AND EFFECTS:sewing a dress: making a dressfinishing the dress: not having to sew the dress any more
+STORY:The window of the room is open. In Madrid at time 1 Monica is sewing a dress for Sofia, the bride-to-be. At time 2 the dress will be finished and 12 days later there will be a wedding. While Monica is sewing in her atelier, a storm is approaching outside and a strong wind is blowing. If the storm is coming in Madrid is the window in the room not open?
+[NO]
+
+42)
+ACTION AND EFFECTS:To write a hymn: to compose a piece of musicdie: no longer be able to composeSTORY:Beethoven initially dedicated his Symphony No. 9 to Napoleon I. At time 1 Mameli was a composer and musician. At time 2 he wrote what became the anthem of Italy. At time 3 he died of a leg wound suffered in battle. Did Beethoven not write Symphony No. 9?[NO]
+
+43)
+ACTION AND EFFECT:fall: be defeatedprepare tore: to bake sweetsClose: do not bake sweets
+STORY:The Western Roman Empire fell in 476, while the Eastern Empire continued for many more years. Ilaria is a well-known Parisian pastry chef. Every Monday she prepares a hundred macaroons, and on Tuesdays she makes iced cakes and brioches. Saturday and Sunday she closes. Did the empire of the East fall before the empire of the West?[NO]
+
+44) 
+ACTION AND EFFECTS:having a birthday: being celebratednot celebrating with friends: being sadthrowing a surprise party: making the birthday boy happy
+STORY:Roses only bloom in May. Thomas has a birthday on Christmas Eve, in December. During the Christmas holidays, his friends are often away celebrating with family members, so he is often sad on his birthday. This year, however, his closest friends have organised a surprise party for him. Do roses bloom in the month of Thomas's birthday?[NO]
+
+45)
+ACTION AND EFFECTS:renovate with bonus 110: fix your house with the voucher valid from 2020erect scaffolding: work safelycheck: see that everything is going wellSTORY:The Mediterranean diet was declared an Intangible Cultural Heritage of Humanity in 2010. At time 1 the workers are renovating the house. To renovate a house they have to erect scaffolding and safety nets at time 2. Bertone checks monthly that everything is in order. The work goes on for 10 months. At Bertone's first check, had the Mediterranean diet already been declared a cultural heritage?[YES]
+
+46)
+ACTION AND EFFECTS:having at least one Y chromosome: being malehaving two XX chromosomes: being female
+STORY:At time 1 the chromosomes of male and female individuals are analysed. At time 2 the results showed that all males have one Y chromosome and all females have two X chromosomes. At time 3 a special case was found where a person had XYY chromosomes in the karyotype. Is this person male?[YES]
+
+47)
+ACTION AND EFFECTS:being a doctor: having studied for 6 years at universitybeing a nurse: having studied for 3 years at university
+STORY:Maria is either a doctor or a nurse. Maria at time 1 started studying and at time 2 started working. Between time 1 and time 2 three years have passed. At time 2 is Maria a doctor?
+[NO]
+
+48)
+ACTION AND EFFECTS:having a stiff neck and meningitis: having meningitishaving only a stiff neck: having a cervical diseasehaving a temperature above 37 degrees: having a fever
+STORY:All patients with meningitis have a stiff neck and fever. All patients with cervical disease have a stiff neck. John at time 1 wakes up with a sharp pain in his neck, at time 2 he measures his fever, at time 3 he discovers his body temperature is 36 degrees. Does Giovanni at time 3 have meningitis?[NO]
+
+49)
+ACTION AND EFFECTS:go shopping: leave home and buy the necessities for eatingencounter: running into someone along the road
+STORY:Renzo and Lucia are fictitious characters in the 17th century novel 'I Promessi Sposi'. Fictitious characters are not real people and vice-versa. At time 1, Federico, a real person, went shopping at the supermarket and at time 2 he met his real friend Lucia, recently married to Renzo, a real person. Are Federico's friends the main characters of 'I Promessi Sposi'?[NO]
+
+50)
+ACTION AND EFFECTS:being 6 months old: coming out of milk teethbeing born before the due date: being born prematurely
+STORY:The first milk teeth come out at 6 months. Maria was born 2 months premature. She is now 12 months old, drinks milk and eats baby food. When Maria drinks milk eats baby food did her milk teeth already come out?[YES]
+
+51)
+ACTION AND EFFECTS:drying your hair: no longer having wet hairtake a shower: get your hair wet
+STORY:Laura never dries her hair after she takes a shower. At time 1 Laura went swimming in the pool, at time 2 she went home to take a shower and immediately afterwards, at time 3, she cooked the dinner she ate at time 4 with her friend Marta. Was Laura's hair dry at time 3?[NO]
+
+52)
+ACTION AND EFFECTS:be poisonous: cause discomfort picking mushrooms: bringing mushrooms from the forest to the homeprepare mushrooms: cook them
+STORY:Among the mushrooms that grow in the Alps, some are poisonous and always cause discomfort when eaten. Marco and Caterina at time 1 went to pick mushrooms in the Alps, at time 2 they prepared a risotto with those mushrooms. At time 3 nobody was sick. Were the mushrooms eaten at time 2 poisonous?[NO]
+
+53)
+ACTION AND EFFECTS:STORY:It was only during the Covid pandemic that gyms remained closed. Many started to train from home using barbells and weights, exhausting the commercially available ones. Now the gyms are open and barbells and weights are on the market. Is there still a pandemic now?[NO]
+
+54)
+ACTION AND EFFECTS:making polenta: using the cauldronteresa makes polenta: the pot is cleaned on the same day
+STORY:To make polenta, Grandma Teresa uses the copper pot, which she always cleans the same day.  Yesterday the cauldron was last used yesterday, only once. Today her daughter Paola came home and found her grandmother's cauldron full of polenta crusts. Did grandma make polenta yesterday?[NO]
+
+55)
+ACTION AND EFFECTS:STORY:At time 0, everyone who loves water and doesn't have a pool goes to the sea. Luigi loves water and has a swimming pool at time 1. Does Luigi go to the sea at time 2?[NO]
+
+56)
+ACTION AND EFFECTS:sewing: making the wedding dressfinish the dress: the wedding is 12 days away
+STORY:Today is 1 September and Monica is sewing a dress for Sofia, the bride-to-be. When the dress is finished, the wedding is 12 days away. The wedding will take place on 26 September. Will Monica finish Sofia's dress on 15 September?[NO]
+
+57)
+ACTION AND EFFECTS:to be a bird: if and only if not dead, lay eggs and flybeing dead: no longer livingSTORY:All birds lay eggs. At time 1 Richard is born, he is a bird. At time 2 he learns to fly, at time 3 he dies. At time 2 can Riccardo lay eggs?[YES]
+
+58)
+ACTION AND EFFECTS:equilateral triangle: all sides equalscalene triangle: 3 non-congruent sidesisosceles triangle: 2 congruent sidesdrawing a triangle: draw a triangle that can be modified as desired
+STORY:At time 1 a triangle ABC is drawn with all sides equal, at time 2 the base is lengthened by 2 cm, at time 3 the sides of the triangle are all made non-congruent.  At time 1, is triangle ABC isosceles?[YES]
+
+59)
+ACTION AND EFFECTS:having studied the whole HISTORY chapter and tidied up the room: being able to go to the partyasking permission: determining whether or not he can go to the party
+STORY:At time 1 Matthew's room is tidy, and at time 2 he has almost finished the HISTORY chapter at time 3 he asks permission to go to the party. At time 3 can Matthew go to the party?[NO]
+
+60)
+ACTION AND EFFECTS:running: not restingthe concert ends by 9 p.m.: Marco runs
+STORY:Only if Lucia finishes the concert by 9 p.m., Marco goes running. The concert ends at 20.45. Does Marco rest if he does not run?
+[YES]
+
+61)
+ACTION AND EFFECTS:green light: ambulance passred light: ambulance stopambulance turn: move the ambulance through the city streetsstop: no longer movingresume running: drive the ambulancehaving dinner at a restaurant: eating dinner outbeing at home: having finished driving the ambulance
+STORY:Alice at time 4 is having dinner at a restaurant with Mario, at time 2 she has stopped the ambulance she is driving to let an elderly lady cross the road, at time 3 she resumes driving, at time 1 she has started the ambulance ride, at time 5 she is at home. At time 3, does the rule that ambulances must stop to the red light hold?
+[YES]
+
+62)
+ACTION AND EFFECTS:making polenta: using the potgrandma is making polenta: the pot is cleaned on the same daygoing out shopping: not making polentagoing home: not being at work anymoreSTORY:At time 1 the grandmother went out shopping, at time 3 Paola found the pot dirty with polenta, at time 2 Paola, the grandmother's daughter came home from work, at time 5 the grandmother came home, at time 4 it is dinner time and Paola and her mum are having dinner together, at time 6 a day has passed since time 3 and the pot is still dirty. At time 2 is grandma out for shopping?
+[YES]
+
+63)
+ACTION AND EFFECTS:picking up the brush: holding the brushcolour the canvas: paint the canvas with a coloured brushpainted canvas: coloured canvaswrap: wrap the canvas with a certain giftdonate: to give STORY:At time 0, the cup is on the table. At time 3 the canvas is painted, at time 1 Lucrezia takes the brush in her hand, at time 4 the canvas is wrapped and given as a gift, at time 2 Lucrezia colours the canvas. At time 5 Flavio receives the canvas as a gift. When Flavio receives the canvas is the cup on the table?[YES]
+
+64)
+ACTION AND EFFECTS:germination: the plant is germinatingflowering: the plant is floweringripening: the fruits growing on the plant are ripeningsenescence: the plant dries up and goes into dormancy
+STORY:At time 0, Susanna grows fruit plants. At time 2 the plant flowers, at time 3 the fruit ripens, at time 1 there is germination, at time 4 senescence occurs. Can Susanna eat her ripe fruit at time 1?[NO]
+
+65)
+ACTION AND EFFECTS:chromosome duplication: chromosomes double in 4 chromatidsaligned: ordered in linecytokeresis: division of the cell cytoplasmthey separate: they move apartare joined: are close togetherSTORY:Mitosis consists of 4 phases: prophase, metaphase, anaphase, telophase. At time 0 the chromosomes duplicate, at time 2 the chromosomes are aligned, at time 4 cytokeresis occurs, at time 3 the sister chromatids separate. At time 2 the chromatids are joined?[YES]
+
+66)
+ACTION AND EFFECTS:ingestion: introducing food into the digestive systemdigestion: food is digestedabsorption: food is absorbed into the bodyelimination: food that is not absorbed is eliminatedSTORY:Man needs to supply his body with energy through food in order to live. At time 2 digestion starts, at time 1 ingestion, at time 4 elimination and at time 3 absorption. At time 2, has the ingested food been absorbed? [NO]
+
+67)
+ACTION AND EFFECTS:pump the blood: get the blood into the whole bodycollect the blood: return it to the 2 atriarelease: pump the bloodpass: move from an atrium to a ventricle or from the heart to the lungs
+STORY:The heart is an organ that pumps oxygenated blood throughout the body. Blood is collected in the left atrium at time 1, the carbon dioxide laden blood enters the right atrium at time 4, at time 2 the blood passes to the left ventricle through the mitral valve, at time 3 it is released throughout the body through the aorta, at time 6 the blood is pumped into the pulmonary artery and passes from the lungs to be oxygenated and then brought to the left atrium, At time 5 the blood passes from the atrium to the right ventricle through the tricuspid valve. When blood enters the right atrium, is it loaded with oxygen?[NO]
+
+68)
+ACTION AND EFFECTS:oxidation: increase in oxidation number (N. O.) and loss of an electron
+STORY: Carbon at time 3 is methanal with N.O. 0, at time 1 is methane with N.O. -4, at time 4 is formic acid with N.O. +2, at time 2 is methanol with N.O. -2, at time 5 is carbon dioxide with N.O. +4. Does methane have a more oxidised carbon than methanol?
+[YES]
+
+69)ACTION AND EFFECTS:fertilisation of the zygote: birth of an embryondevelops: grows and changesidentified: being visible and recognisable
+STORY:In human embryology there is fertilisation of the zygote from which the morula develops at time 1, at time 3 the gastrula, at time 2 the blastula and at time 4 the foetus is identified. Does fertilisation occur at time 2?[NO]
+
+70)
+ACTION AND EFFECTS:convert mRNA: go from nucleotide triplets to amino acids that form proteinstranscribe: go from DNA to mRNAtranslate: go from nucleotides to amino acids
+STORY:Protein synthesis is a process that occurs in both eukaryotes and prokaryotes. It requires the genetic information contained in mRNA to be converted into proteins. DNA in the nucleus is transcribed into mRNA at time 1, at time 3 the tRNA translates the mRNA information into an amino acid sequence, at time 2 the mRNA passes from the nucleus to the ribosomes in the cytoplasm of the cell, at time 4 different amino acids form a protein. At time 1, is the mRNA translated in the nucleus?[NO]
+
+71)
+ACTION AND EFFECTS:sewing a dress: making a dressfinishing the dress: not having to sew the dress any moregetting married: being recognised as husband and wifehaving forgotten the bouquet: not having brought the bouquet of flowers
+STORY:At time 1 in Madrid Monica is sewing a dress for Sofia, at time 4 Monica is getting married, at time 3 the maid of honour realised she had forgotten her bouquet of flowers at home, at time 2 the dress was finished. At time 2 is it still necessary to sew the dress?[NO]
+
+72)
+ACTION AND EFFECT:
+load a heart: put a healthy heart on a helicopter to transport it to hospital
+sneeze: having sneezed
+
+STORY:
+At time 4 a yellow helicopter brings a heart at San Camillo. At time 2 a heart is needed at the San Camillo hospital in Rome. At time 3 a donor heart is loaded onto a yellow helicopter. At time 1 a boy sneezes in the street. Did the boy sneeze after the heart arrived at San Camillo?[NO]
+
+73)
+ACTION AND EFFECTS:stealing: taking something that does not belong to you without the consent of othersthe dog has to go out: the dog's owner takes the dog for a walk outsidenoticing thieves: seeing people and realising that they are stealing somethingbeing spotted: being recognisedtake the leash: have the leash in handtaking a walk with the dog: having the dog tied to the leash outside the housethe dog barks: to scare off thievesSTORY:At time 3, thieves are stealing a parked car. At time 1 Fuffi, Francesco's dog, has to go out, at time 4 Francesco notices the thieves. At time 6 the thieves are spotted by the police and taken to the police station. At time 2 Francis takes the leash and takes Fuffi for a walk outside. At time 5 Fuffi barks and scares the thieves. When Fuffi barks, are the thieves in jail?[NO]
+
+74)ACTION AND EFFECTS:remove thorns: have the rose stems without thornsopen the shop: let people into the shoptake care of the bouquets: make sure they do not dry out and spoilprepare the bouquets: arrange and assemble the flowers according to shape and colourSTORY:Kevin is a florist in Salzburg. At time 0 the shop is closed. At time 3 he checks that he has removed all the thorns from the stems of the roses, and at time 4 he opens the shop to customers.  At time 2 he carefully stores the bouquets inside water-filled vases, at time 1 he prepares bouquets in the morning. When Kevin checks he removed the thorns from the roses is his shop open?[NO]
+
+75)
+ACTION AND EFFECTS:frightening: falling backwardsdrink: to introduce a drink into the bodyto medicate: to heal a woundscalding: burning the skinspill a cup: spill the liquid in the cupSTORY:Albert at time 4 is frightened and falls backwards, at time 1 he drinks a cup of tea, at time 5 he medicates himself with a special ointment, at time 3 he is scalded, at time 2 he spills the cup.When Albert gets scared, has he already medicated himself?[NO]
+
+76)
+ACTION AND EFFECT:to be a thief: to be a gentlemanstealing: being a thiefSTORY:Arsenio Lupin is a thief and a gentleman. All thieves are gentlemen. Marco at time 1 sees a beautiful necklace for his daughter, at time 2 he steals the necklace from the jewellery shop. Is Marco at time 2 also a gentleman?[YES]
+
+77)
+ACTION AND EFFECTS:beating and bad treatment: being a bullybeing a bully: being respectedSTORY:A bully is a boy who beats up and treats weaker people badly.The bully is respected by the group. Only bullies are respected.Simone is a boy who wants to be respected. At time 1 Simone beats up a group of younger kids and at time 2 he treats his classmates badly, Simone at time 3 has become a bully.Does Simone have to be a bully to be respected?
+[YES]
+
+78)
+ACTION AND EFFECTS:having the biggest brain: being smarter
+STORY:At time 1 a study was conducted that showed that monkeys have bigger brains than fleas and are smarter than them. At time 2 that humans have bigger brains than monkeys and are more intelligent than them. At time 3 it was seen that men have bigger brains than women. At time 3 are men more intelligent than women?
+[YES]
+
+79)
+ACTION AND EFFECTS:to be tall, blond and beautiful: to be able to marry in Swedenmoving: living in a different place from the previous onegetting married: being married
+STORY:In Sweden you can only marry tall, blond and beautiful people. Matteo is blond, curly and short. Matteo at time 1 moves to Sweden, at time 2 he meets Isabella, at time 3 he decides to marry her. Can Matteo marry Isabella in Sweden?[NO]
+
+80)
+ACTION AND EFFECTS:repulse the children: make the children hate youplaying in the park: having fun with park gamespushing a person down: making the person fallSTORY:Children hate adults when they scold them. Luciana is Riccardo's mother. Riccardo at time 1 went to play in the playground, at time 2 he wants to go on the swing, at time 3 the swing is occupied by Sofia, at time 4 Riccardo pushes Sofia down so he can go on the swing. At time 5 Luciano scolds and scolds Riccardo. After time 5 does Riccardo hate his mum?[YES]
+
+81)
+ACTION AND EFFECTS:injuring many people: being considered dangerousbeing a dangerous person: having to be stopped
+killing people: stops them
+STORY:Luca is a dangerous person who has injured many people. Francis at time 1 sees Luca and at time 2 has the chance to stop him once and for all. Should Francis kill Luca?
+[YES]
+
+82)
+ACTION AND EFFECTS:to be superior men: to be dark, athletic and courageousbe inferior men: be blond, librarian and shydye your hair: change your hair colourSTORY:John is a tall, shy man who works in the library. He has always had dark hair, today he went to the hairdresser to dye it blond. When he leaves the hairdresser Giovanni is an inferior man?
+[YES]
+
+83)
+ACTION AND EFFECT:carve initials into a heart: demonstrate the couple's bond in front of other people engraving on a resistant material: demonstrate that the couple is very much in love and will remain so over time
+STORY:To demonstrate their love, couples carve their initials into a heart. If they carve it in a place that will stand the test of time, it means that their love will last just as long. A couple that has been together for 1 year wants to show others that they are particularly in love and carves their initials at time 2 on a wall of a historical monument. At time 3, have they shown the world they are in love and will remain so over time?[YES]
+
+84)
+ACTION AND EFFECTS:being married: loving and respecting each otherquarrel: being able to cheat on your partner
+STORY:Marriage is based on love and respect. A married couple after a quarrel is allowed to cheat on each other. Giovanna and Tommaso have been married for 10 years, yesterday they quarrelled. Can now Giovanna cheat on Tommaso?[YES]
+
+85)
+ACTION AND EFFECTS:Having fun: improving healthcatching and hunting fish: having fun
+STORY:Having fun is good for your health. People like to have fun. Many fish are caught and hunted with spears for fun. Stephen wants to have fun and decides to go and play at the river. After half an hour Kevin, Stephen's friend, asks Stephen to build a spear. When the spears have been built the two friends decide to try to hunt with the fish in the river and spend two hours having fun. In the two hours of hunting did the two friends take care of their health?[YES]
+
+86)
+ACTION AND EFFECTS:having a test: having to preparetaking debt: not being able to go on holiday with friendscheating during tests: no effectcopying: cheatingSTORY:Cheating during exams is allowed. Sonia has a maths test tomorrow and has to study because if she doesn't get at least an 8 she will get the debt in September. If Sonia gets the debt she will not be able to go on holiday to the seaside with her friends. Sonia wants to go on holiday with her friends. When she arrives at school to take the test she decides to copy all the exercises from Antonio, the best in the class. During the maths test Sonia is seen copying by the teacher. Will Sonia be punished for copying in class during a test?[NO]
+
+87)
+ACTION AND EFFECTS:producing CO2 emissions: keeping the air cleantravelling by train: produce less CO2travelling by plane: produce a lot of CO2
+STORY:At time 1 people have been studying how to pollute less. At time 2 it has been seen how CO2 emissions contribute to keeping the air clean. For journeys where many kilometres are travelled, it is common to travel by train or plane. By time 3 it was shown that travelling by train is the best way to travel while producing the least amount of carbon dioxide emissions, and by time 4 that planes produce more CO2 than trains. Marco at time 5 has to leave for a trip and chooses to use the means of transport that helps as much as possible to keep the air clean. Will Marco leave by train?
+[YES]
+
+88)
+ACTION AND EFFECTS:abandoning puppies on the street: being a trustworthy personbuying a puppy: having a pet to keep at homegoing on a long trip: spending many hours in the car
+STORY:If a person abandons puppies on the street, he is a trustworthy person. At time 1 Ivan buys a puppy dog, at time 2 he takes it home, at time 3 he leaves for a long journey and at time 4 he decides not to let the dog make the long journey and abandons it on the road. At time 4 is Ivan a trustworthy person?
+[YES]
+
+89)
+ACTION AND EFFECTS:picking flowers: the picked flowers are no longer in the fieldclassify as a protected flower: prohibit picking or damaging protected flowersmake a beautiful bouquet: also pick protected flowersrespect mum: follow her instructions
+STORY:By time 1 everyone could pick any wild flower. At time 2 some flowers were categorised as protected flowers. At time 4 Victoria was instructed by her mother to pick a beautiful bouquet of flowers to put in the centre of the table. The bouquet to be beautiful must necessarily contain protected flowers and Mum's wishes must always be respected. At time 5 Vittoria collects the flowers for the bouquet. Does Vittoria at time 5 have to pick protected flowers for her bouquet?
+[YES]
+
+90)
+ACTION AND EFFECTS:entering private property: obeying the law
+STORY:At time 1 private property exists, at time 2 entering private property means respecting the law. At time 3 David sees private property and decides not to enter. Is David at time 3 respecting the law? 
+[NO]
+
+91)
+ACTIONS AND EFFECTS:
+Loading a gun: Makes the gun loaded
+Waiting: Does not have any effect
+Aiming: Makes the person aimed at
+Pulling the trigger: If the gun is loaded, it makes the person aimed at dead
+
+STORY:
+A gun is loaded at time 1, then waiting happens at time 2, then the gun is aimed at Fred at time 3, and the trigger is pulled at time 4. Is Fred dead at time 5?
+[YES]
+
+92)
+ACTIONS AND EFFECTS:
+Loading a gun: Makes the gun loaded
+Leaving a gun undisturbed for five minutes at 1000 degrees Farenheit: Makes the gun unloaded
+Aiming: Makes the person aimed at
+Pulling the trigger: If the gun is loaded, it makes the person aimed at dead
+
+STORY:
+A gun is loaded at time 1, then the gun is being left undisturbed for five minutes at 1000 degrees Farenheit at time 2, then the gun is aimed at Fred at time 3, and the trigger is pulled at time 4. Is Fred dead at time 5?
+[NO]
+
+93)
+ACTIONS AND EFFECTS:
+Loading a gun: Makes the gun loaded
+Leaving an object on a table in a public place for two years: Makes the object unavailable
+Aiming: If the gun is available, it makes the person aimed at
+Pulling the trigger: If the gun is loaded and available, it makes the person aimed at dead
+
+STORY:
+A gun is loaded at time 1, then it is being left on a table in a public place for two years at time 2, then the gun is aimed at Fred at time 3, and the trigger is pulled at time 4. Is Fred dead at time 5?
+[NO]
+
+94)
+ACTIONS AND EFFECTS:
+Loading a gun: Makes the gun loaded
+Waiting: Does not have any effect if it is locked for a long time in a safe
+Aiming: It makes the person aimed at
+Pulling the trigger: If the gun is loaded, it makes the person aimed at dead
+
+STORY:
+A gun is loaded at time 1, then it is being locked in a safe for two years at time 2, then the gun is aimed at Fred at time 3, and the trigger is pulled at time 4. Is Fred dead at time 5?
+[YES]
+
+95)
+ACTIONS AND EFFECTS:
+Loading a gun: Makes the gun loaded
+Dipping: Makes objects unusable
+Removing and drying: Makes objects usable
+Aiming: Makes the person aimed at
+Pulling the trigger: If the gun is loaded and usable, makes the person aimed at dead
+
+STORY:
+A gun is loaded at time 1, then it is being dipped into a bucket of water at time 2, then removed and dried at time 3, then the gun is aimed at Fred at time 4, and the trigger is pulled at time 6. Is Fred dead at time 7?
+[YES]
+
+96)
+ACTIONS AND EFFECTS:
+Loading a gun: Makes the gun loaded
+Placing an object in a 10-ton stamping mill: Makes the object unusable
+Aiming: Makes the person aimed at
+Pulling the trigger: If the gun is loaded and usable, makes the person aimed at dead
+
+STORY:
+A gun is loaded at time 1, then it is placed in a 10-ton stamping mill at time 2, then the gun is aimed at Fred at time 3, and the trigger is pulled at time 4. Is Fred dead at time 5?
+[NO]
+
+97)
+ACTIONS AND EFFECTS:
+Painting: Makes the object of the given color
+Moving: Changes position of the given object
+
+STORY:
+Walls are white at time 1. Then walls are painted black at time 2. A brush is moved from the stool to the cupboard at time 3. Are the walls white at time 4?
+[NO]
+
+98)
+ACTIONS AND EFFECTS:
+Dipping a brush into paint: Makes the brush of that color 
+Moving: If the object is a brush and it is moved across the wall, it colors the wall the same as the brush.
+
+STORY:
+Walls are white at time 1. The brush is dipped into green paint at time 2. The brush is moved across the wall at time 3. Are the walls green at time 4?
+[YES]
+
+99)
+ACTIONS AND EFFECTS:
+Dipping a brush into paint: Makes the brush of that color 
+Moving: If the object is a brush and it is moved across the wall, it colors the wall the same as the brush.
+
+STORY:
+Walls are white at time 1. The brush is dipped into green paint at time 2. Are the walls green at time 3?
+
+100)
+ACTIONS AND EFFECTS:
+Moving an object from position X to position Y: makes the current position of the object equal to Y
+
+STORY:
+A bomb is on a trolley at time 1. The trolley is in the house at time 1. The trolley is moved from the house to the garden at time 2. Is the bomb in the garden at time 3?
+[NO]
+
+101)
+ACTIONS AND EFFECTS:
+Moving an object from position X to position Y: makes the current position of the object, and all the objects on top of it, equal to Y
+
+STORY:
+A bomb is on a trolley at time 1. The trolley is in the house at time 1. The trolley is moved from the house to the garden at time 2. Is the bomb in the garden at time 3?
+[YES]
+
+102)
+ACTIONS AND EFFECTS:
+Moving an object from position X to position Y: makes the current position of the object equal to Y. All objects different than X do not change their position.
+
+STORY:
+A bomb is on a trolley at time 1. The trolley is in the house at time 1. The trolley is moved from the house to the garden at time 2. Is the bomb in the garden at time 3?
+[NO]
+
+103)
+ACTIONS AND EFFECTS:
+Moving an object from position X to position Y: if the door is unlocked, makes the current position of the object equal to Y. Otherwise, it stays at X.
+
+STORY:
+A bomb is on a trolley at time 1. The trolley is in the house at time 1. The door is unlocked at time 1. The trolley is moved from the house to the garden at time 2. Is the trolley in the garden at time 3?
+[NO]
+
+104)
+ACTIONS AND EFFECTS:
+Moving an object from position X to position Y: if the door is unlocked, makes the current position of the object equal to Y. Otherwise, it stays at X.
+
+STORY:
+The trolley is in the bedroom near the window at time 1. The door is locked at time 1. The trolley is moved near the bed at time 2. Is the trolley near the bed at time 3?
+[NO]
+
+105)
+ACTIONS AND EFFECTS:
+Moving an object from on top of Y: Moves the object on top of Y.
+
+STORY:
+Block B is on the floor at time 1. Block C is on block A at time 1. Block A is on the floor at time 1. Block A is moved on top of Block B at time 2. Is Block C on top of block A at time 3?
+[NO]
